@@ -2,7 +2,7 @@
 
 # ---------------------------------------
 # Script Interativo de Pós-Instalação para Ubuntu
-# Autor: Seu Nome
+# Autor: Vitório Santos
 # ---------------------------------------
 
 confirmar() {
